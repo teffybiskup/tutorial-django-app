@@ -1,4 +1,4 @@
-# tutorial-django-app
+# Writing a Django app
 The creation of a basic poll application.
 
 It’ll consist of two parts:
